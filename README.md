@@ -18,3 +18,11 @@ The dataset has 12 columns, and a total of 262128 rows. The following are the ro
 - **pkts_sent**: The number of packets sent
 - **pkts_received**: The number of packets received
 - **Class**: Label to classify the rule (Allow, Drop, Deny, Reset-both).
+
+The following models have been used:
+
+1.   **Decision Tree**
+2.   **Random Forest**
+3.   **Gradient Boosting**
+4.   **K-Nearest Neighbor**
+5.   **Naive Bayes**: Multinomial and Gaussian
